@@ -23,6 +23,22 @@ body {
     z-index: -1;
 }
 
+.top-hero {
+    position: relative;
+    height: 200px;
+    background-size: cover;
+    z-index: 0;
+}
+
+.top-hero-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 3.6rem;
+    text-transform: uppercase;
+}
+
 /* nawigacja */
 nav {
     font-size: 2rem;
@@ -40,7 +56,6 @@ nav {
 }
 
 /* header */
-
 header {
     font-size: 2rem;
 }
@@ -80,7 +95,6 @@ header {
 }
 
 /* main */
-
 .aboutus {
     padding: 5em 0;
 }
@@ -112,4 +126,10 @@ img {
 
 footer {
     font-size: 1.6rem;
+}
+
+/* about us */
+.aboutus-hero {
+    background-image: url('../assets/img/about/about_hero.jpg');
+    background-position: bottom;
 }
