@@ -100,7 +100,6 @@ header {
     z-index: 0;
 }
 
-
 .home-brand h3 {
     font-size: 3rem;
     font-weight: bold;
@@ -109,4 +108,8 @@ header {
 img {
     height: 400px;
     width: 400px;
+}
+
+footer {
+    font-size: 1.6rem;
 }
