@@ -178,4 +178,17 @@ footer {
     }
 }
 
+.cards-box {
+    width: 400px;
+}
 
+.cards i {
+    font-size: 40px;
+}
+
+/* services */
+
+.aboutus-hero {
+    background-image: url('../assets/img/about/about_hero.jpg');
+    background-position: bottom;
+}
