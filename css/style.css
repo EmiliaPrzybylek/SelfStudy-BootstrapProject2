@@ -189,23 +189,23 @@ footer {
 /* services */
 
 .services-hero {
-    background: url('/assets/img/services/services_hero.jpg') center/cover;
+    background: url('../assets/img/services/services_hero.jpg') center/cover;
 }
 
 .services-building {
-    background: url('/assets/img/services/services_1.jpg') center/cover;
+    background: url('../assets/img/services/services_1.jpg') center/cover;
     height: 300px
 }
 .services-service {
-    background: url('/assets/img/services/services_2.jpg') center/cover;
+    background: url('../assets/img/services/services_2.jpg') center/cover;
     height: 300px
 }
 .services-painting {
-    background: url('/assets/img/services/services_3.jpg') center/cover;
+    background: url('../assets/img/services/services_3.jpg') center/cover;
     height: 300px
 }
 .services-second-life {
-    background: url('/assets/img/services/services_4.jpg') center/cover;
+    background: url('../assets/img/services/services_4.jpg') center/cover;
     height: 300px
 }
 
