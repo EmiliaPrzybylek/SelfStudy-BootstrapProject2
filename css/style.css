@@ -231,7 +231,7 @@ footer {
 
 /* contact */
 .contact-hero {
-    background: url('../assets/img/contact/contact_hero.jpg') center/cover;
+    background: url('assets/img/contact/contact_hero.jpg') center/cover;
 }
 
 .btn {
