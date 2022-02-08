@@ -228,3 +228,23 @@ footer {
 .project-box .btn {
     font-size: 1.3rem;
 }
+
+/* contact */
+.contact-hero {
+    background: url('../assets/img/contact/contact_hero.jpg') center/cover;
+}
+
+.btn {
+    font-size: 2rem;
+}
+
+.contact input, .contact  select, .contact textarea {
+     font-size: 1.6rem;
+}
+
+iframe {
+    width: 100%;
+    min-height: 400px;
+}
+    
+
